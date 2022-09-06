@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umut Yurdugül</h1>
+<h1 align="center">Hi 👋, I'm Umut </h1>
 <h3 align="center">I'm a 17 years old student from Turkey</h3>
 
 
