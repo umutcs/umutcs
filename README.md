@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umut Yurdugül</h1>
 <h3 align="center">I'm a 17 years old student from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donedugmyself&label=Profile%20views&color=0e75b6&style=flat" alt="donedugmyself" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donedugmyself" alt="donedugmyself" /></a> </p>
 
 
 
@@ -11,11 +8,10 @@
 - [Modern C# Course : From Zero to Professional for the .NET World](https://www.udemy.com/certificate/UC-a1d8894a-4734-457f-b027-f65bdf797bf9/)
 - [C# ALGORITHM and PROGRAMMING 101 ](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/101)
 - [C# ALGORITHM and PROGRAMMING 201 ](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/201)
+- [Basic Linux 101](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/Temel%20Linux/101)
 - [Visual and OOP with C# Form 101](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/C%20Sharp%20Form%20ile%20Görsel%20ve%20Nesne%20Tabanlı%20Programlama/101)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/varheartnull/javascript-algorithms-and-data-structures) 
-- [Basic Linux 101](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/Temel%20Linux/101)
-
-
+- [Data Visualization](https://www.freecodecamp.org/certification/varheartnull/data-visualization)
 
 
 
