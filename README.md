@@ -9,20 +9,14 @@
 
 - My certificates  
 [Modern C# Course : From Zero to Professional for the .NET World](https://www.udemy.com/certificate/UC-a1d8894a-4734-457f-b027-f65bdf797bf9/)
+
 [C# ALGORITHM and PROGRAMMING 101 ](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/101)
+
 [C# ALGORITHM and PROGRAMMING 201 ](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/201)
+
 [Visual and OOP with C# Form 101](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/C%20Sharp%20Form%20ile%20Görsel%20ve%20Nesne%20Tabanlı%20Programlama/101)
+
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/varheartnull/javascript-algorithms-and-data-structures) 
-
-
- 
-
-
-
-
-
-
-
 
 
 
