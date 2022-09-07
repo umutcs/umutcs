@@ -10,9 +10,9 @@
 - [C# ALGORITHM and PROGRAMMING 201 ](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/201)
 - [Basic Linux 101](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/Temel%20Linux/101)
 - [Visual and OOP with C# Form 101](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/C%20Sharp%20Form%20ile%20Görsel%20ve%20Nesne%20Tabanlı%20Programlama/101)
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/varheartnull/javascript-algorithms-and-data-structures) 
-- [Data Visualization](https://www.freecodecamp.org/certification/varheartnull/data-visualization)
-- [Front End Development Libraries](https://www.freecodecamp.org/certification/varheartnull/front-end-development-libraries)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/umutyurdugul/javascript-algorithms-and-data-structures) 
+- [Data Visualization](https://www.freecodecamp.org/certification/umutyurdugul/data-visualization)
+- [Front End Development Libraries](https://www.freecodecamp.org/certification/umutyurdugul/front-end-development-libraries)
 <p align="left">
 
 
