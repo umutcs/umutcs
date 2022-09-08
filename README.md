@@ -15,7 +15,7 @@
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/umutyurdugul/javascript-algorithms-and-data-structures)
 - [Front End Development Libraries](https://www.freecodecamp.org/certification/umutyurdugul/front-end-development-libraries)
 - [Data Visualization](https://www.freecodecamp.org/certification/umutyurdugul/data-visualization)
-
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/umutyurdugul/scientific-computing-with-python-v7)
 
 
 
