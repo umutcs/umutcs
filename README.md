@@ -12,10 +12,10 @@
 - [ALGORITHM and PROGRAMMING WITH C# 101](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/101)
 - [ALGORITHM and PROGRAMMING WITH C# 201](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/varheartnull/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/201)
 - [Modern C# Course : From Zero to Professional for the .NET World](https://www.udemy.com/certificate/UC-a1d8894a-4734-457f-b027-f65bdf797bf9/)
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/umutyurdugul/javascript-algorithms-and-data-structures)
-- [Front End Development Libraries](https://www.freecodecamp.org/certification/umutyurdugul/front-end-development-libraries)
-- [Data Visualization](https://www.freecodecamp.org/certification/umutyurdugul/data-visualization)
-- [Scientific Computing with Python](https://www.freecodecamp.org/certification/umutyurdugul/scientific-computing-with-python-v7)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rubywasamotherfuckinreject/javascript-algorithms-and-data-structures)
+- [Front End Development Libraries](https://www.freecodecamp.org/certification/rubywasamotherfuckinreject/front-end-development-libraries)
+- [Data Visualization](https://www.freecodecamp.org/certification/rubywasamotherfuckinreject/data-visualization)
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/rubywasamotherfuckinreject/scientific-computing-with-python-v7)
 
 
 
