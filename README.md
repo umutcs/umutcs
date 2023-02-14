@@ -17,14 +17,14 @@
 - [Data Visualization](https://www.freecodecamp.org/certification/rubywasamotherfuckinreject/data-visualization)
 - [Scientific Computing with Python](https://www.freecodecamp.org/certification/rubywasamotherfuckinreject/scientific-computing-with-python-v7)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varheartnull&label=Profile%20views&color=0e75b6&style=flat" alt="varheartnull" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varheartnull" alt="varheartnull" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sokrateshayraniyim&label=Profile%20views&color=0e75b6&style=flat" alt="sokrateshayraniyim" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sokrateshayraniyim" alt="sokrateshayraniyim" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varheartnull&show_icons=true&locale=en&layout=compact" alt="varheartnull" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varheartnull&show_icons=true&locale=en" alt="varheartnull" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varheartnull&" alt="varheartnull" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sokrateshayraniyimsokrateshayraniyim&show_icons=true&locale=en&layout=compact" alt="sokrateshayraniyim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sokrateshayraniyim&show_icons=true&locale=en" alt="sokrateshayraniyim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sokrateshayraniyim&" alt="sokrateshayraniyim" /></p>
 
 
 <p align="left">
