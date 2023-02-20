@@ -17,7 +17,7 @@
 - [Data Visualization](https://www.freecodecamp.org/certification/rubywasamotherfuckinreject/data-visualization)
 - [Scientific Computing with Python](https://www.freecodecamp.org/certification/rubywasamotherfuckinreject/scientific-computing-with-python-v7)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sokrateshayraniyim&label=Profile%20views&color=0e75b6&style=flat" alt="sokrateshayraniyim" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sokrateshayraniyim" alt="sokrateshayraniyim" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/sokrateshayraniyim/count.svg" />
 </p>
 
 
