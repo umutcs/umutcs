@@ -23,6 +23,14 @@
 <p align="left">
 </p>
 
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sokrateshayraniyim&show_icons=true&locale=en" alt="sokrateshayraniyim" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sokrateshayraniyim&" alt="sokrateshayraniyim" /></p>
 
