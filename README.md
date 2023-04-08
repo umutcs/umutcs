@@ -1,5 +1,5 @@
 ## Hi👋 
-My name is Umut, or as most people know me on the internet, "sokrateshayraniyim." I started taking my first steps into the world of technology at the age of 6 by using a computer and at the age of 9, I wrote my first program called helloworld.c using the C programming language. I have been involved with the C# programming language for about 5 years. Two years were spent on learning, and the other 3 years were spent on self-improvement. I continue to add new things to myself every day.
+My name is Umut, or as most people know me on the internet, "polymorphism69." I started taking my first steps into the world of technology at the age of 6 by using a computer and at the age of 9, I wrote my first program called helloworld.c using the C programming language. I have been involved with the C# programming language for about 5 years. Two years were spent on learning, and the other 3 years were spent on self-improvement. I continue to add new things to myself every day.
 
 ## Connect with Me
 
