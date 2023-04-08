@@ -33,10 +33,7 @@ My name is Umut, or as most people know me on the internet, "sokrateshayraniyim.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sokrateshayraniyim" alt="sokrateshayraniyim" /></a> </p>
 <p align="left">
 </p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sokrateshayraniyim/count.svg" />
-</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sokrateshayraniyim&show_icons=true&locale=en" alt="sokrateshayraniyim" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sokrateshayraniyim&" alt="sokrateshayraniyim" /></p>
 <p align="left">
