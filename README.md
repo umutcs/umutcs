@@ -30,11 +30,11 @@ My name is Umut, or as most people know me on the internet, "sokrateshayraniyim.
 - [ALGORITHM and PROGRAMMING WITH C# 201](https://gelecegiyazanlar.turkcell.com.tr/certificate/dWlkMjQxMzI5Y2lkMzYwNDFxaWQxMjZlbmQ=)
 - [Modern C# Course : From Zero to Professional for the .NET World](https://www.udemy.com/certificate/UC-a1d8894a-4734-457f-b027-f65bdf797bf9/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sokrateshayraniyim" alt="sokrateshayraniyim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polymorphism69" alt="polymorphism69" /></a> </p>
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sokrateshayraniyim&show_icons=true&locale=en" alt="sokrateshayraniyim" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sokrateshayraniyim&" alt="sokrateshayraniyim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sokrateshayraniyim&show_icons=true&locale=en" alt="polymorphism69" /></p>
+
 <p align="left">
 </p>
